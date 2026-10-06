@@ -70,8 +70,8 @@ Dentre os arquivos e pastas presentes na raiz do projeto, definem-se:
 
 ```bash
 # 1) baixar o código
-git clone https://github.com/matheus-meissner/<NOME-DO-REPOSITORIO>.git
-cd <NOME-DO-REPOSITORIO>
+git clone https://github.com/matheus-meissner/cardioia-fase2-diagnostico-ia.git
+cd cardioia-fase2-diagnostico-ia
 
 # 2) (opcional) ambiente virtual
 python -m venv .venv
