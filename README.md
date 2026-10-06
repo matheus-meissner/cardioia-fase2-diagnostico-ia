@@ -15,9 +15,9 @@
 
 ## 👩‍🏫 Professores:
 ### Tutor(a) 
-- Ana Cristina dos Santos
+- Leonardo Ruiz Orabona
 ### Coordenador(a)
-- <a href="https://www.linkedin.com/company/inova-fusca">[ADICIONAR NOME DO COORDENADOR]</a>
+- André Godoi Chiovato
 
 ## 🎥 Vídeo de demonstração
 
