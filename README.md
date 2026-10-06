@@ -15,7 +15,7 @@
 
 ## 👩‍🏫 Professores:
 ### Tutor(a) 
-- <a href="https://www.linkedin.com/company/inova-fusca">[ADICIONAR NOME DO TUTOR]</a>
+- Ana Cristina dos Santos
 ### Coordenador(a)
 - <a href="https://www.linkedin.com/company/inova-fusca">[ADICIONAR NOME DO COORDENADOR]</a>
 
