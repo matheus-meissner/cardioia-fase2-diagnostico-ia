@@ -1,0 +1,28 @@
+# Material de apoio do enunciado (não versionar)
+files/
+
+# Ir Além (opcionais, fora da entrega da Fase 2)
+ir_alem_1_portal/
+ir_alem_2_ecg_mlp/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# Node / Vite
+node_modules/
+dist/
+
+# Dados pesados / modelos
+ecg_dataset/
+*.keras
+*.h5
+
+# SO / editores
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

@@ -1,0 +1,79 @@
+Sintoma 1,Sintoma 2,Doença Associada
+dor no peito,suor frio,Infarto Agudo do Miocárdio
+dor no peito,irradia para o braço,Infarto Agudo do Miocárdio
+aperto no peito,suor frio,Infarto Agudo do Miocárdio
+aperto no tórax,suor frio,Infarto Agudo do Miocárdio
+pressão no peito,náusea,Infarto Agudo do Miocárdio
+dor no peito,dor na mandíbula,Infarto Agudo do Miocárdio
+queimação no peito,suor frio,Infarto Agudo do Miocárdio
+dor no peito,dor no braço esquerdo,Infarto Agudo do Miocárdio
+dor no peito,sensação de morte iminente,Infarto Agudo do Miocárdio
+aperto no peito,subo escada,Angina
+aperto no peito,subir escada,Angina
+aperto no peito,ando mais rápido,Angina
+aperto no peito,melhora ao descansar,Angina
+dor no peito,melhora ao descansar,Angina
+dor no peito,aos esforços,Angina
+dor no peito,subir escada,Angina
+dificuldade para respirar,aperto no peito,Angina
+dor no peito,ao caminhar,Angina
+cansaço constante,tornozelos inchados,Insuficiência Cardíaca
+cansaço constante,fadiga,Insuficiência Cardíaca
+cansaço constante,dormir com dois travesseiros,Insuficiência Cardíaca
+tornozelos inchados,dormir com dois travesseiros,Insuficiência Cardíaca
+fadiga,inchaço nas pernas,Insuficiência Cardíaca
+inchaço nas pernas,falta de ar,Insuficiência Cardíaca
+falta de ar,tosse seca à noite,Insuficiência Cardíaca
+falta de ar,acordo sufocado,Insuficiência Cardíaca
+cansaço constante,falta de ar,Insuficiência Cardíaca
+coração disparado,batimentos irregulares,Arritmia Cardíaca
+coração disparado,tontura,Arritmia Cardíaca
+batimentos irregulares,tontura,Arritmia Cardíaca
+palpitações,tontura,Arritmia Cardíaca
+palpitações,desmaio,Arritmia Cardíaca
+coração acelerado,falta de ar,Arritmia Cardíaca
+palpitações,batimentos irregulares,Arritmia Cardíaca
+coração falhando,tontura,Arritmia Cardíaca
+dor de cabeça na nuca,zumbido no ouvido,Hipertensão Arterial
+dor de cabeça na nuca,pressão alta,Hipertensão Arterial
+pressão alta,visão embaçada,Hipertensão Arterial
+pressão alta,dor de cabeça,Hipertensão Arterial
+zumbido no ouvido,tontura,Hipertensão Arterial
+visão embaçada,dor de cabeça,Hipertensão Arterial
+pressão alta,sangramento nasal,Hipertensão Arterial
+dor no peito,piora ao respirar fundo,Pericardite
+dor no peito,ao deitar,Pericardite
+dor no peito,me inclino para frente,Pericardite
+resfriado,dor no peito,Pericardite
+febre baixa,dor no peito,Pericardite
+piora ao respirar fundo,ao deitar,Pericardite
+falta de ar intensa,dor ao respirar,Embolia Pulmonar
+falta de ar intensa,viagem longa,Embolia Pulmonar
+falta de ar,viagem longa,Embolia Pulmonar
+dor ao respirar,tosse com sangue,Embolia Pulmonar
+dificuldade para respirar,viagem longa,Embolia Pulmonar
+falta de ar,perna inchada,Embolia Pulmonar
+dor ao respirar,viagem longa,Embolia Pulmonar
+panturrilha inchada,dor na perna,Trombose Venosa Profunda
+perna inchada,dor na perna,Trombose Venosa Profunda
+panturrilha inchada,perna quente,Trombose Venosa Profunda
+perna inchada,vermelhidão na perna,Trombose Venosa Profunda
+dor na panturrilha,inchaço na perna,Trombose Venosa Profunda
+perna quente,dor na perna,Trombose Venosa Profunda
+panturrilha inchada,depois de uma cirurgia,Trombose Venosa Profunda
+perna dolorida,perna quente,Trombose Venosa Profunda
+desmaiei,cansaço ao subir,Estenose Aórtica
+desmaiei,carregar peso,Estenose Aórtica
+desmaiei,sopro no coração,Estenose Aórtica
+sopro no coração,cansaço ao subir,Estenose Aórtica
+desmaio,falta de ar ao esforço,Estenose Aórtica
+sopro no coração,falta de ar ao esforço,Estenose Aórtica
+desmaiei,falta de ar ao esforço,Estenose Aórtica
+febre alta,calafrios,Endocardite Infecciosa
+febre alta,suor noturno,Endocardite Infecciosa
+febre alta,perdi peso,Endocardite Infecciosa
+febre alta,tratamento dentário,Endocardite Infecciosa
+calafrios,suor noturno,Endocardite Infecciosa
+suor noturno,perdi peso,Endocardite Infecciosa
+calafrios,tratamento dentário,Endocardite Infecciosa
+febre alta,sopro no coração,Endocardite Infecciosa

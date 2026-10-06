@@ -1,0 +1,6 @@
+# Partes 1 e 2 (extração de sintomas + classificador TF-IDF)
+numpy
+pandas<3
+scikit-learn
+matplotlib
+jupyter
