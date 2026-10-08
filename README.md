@@ -21,7 +21,7 @@
 
 ## 🎥 Vídeo de demonstração
 
-**▶️ [ADICIONAR AQUI O LINK DO YOUTUBE (não listado)]**
+**▶️ [Assistir no YouTube (não listado)](https://youtu.be/O3MEH9doHAA)**
 
 > ⚠️ **Aviso:** projeto **acadêmico**, com dados **simulados**. As sugestões geradas **não são diagnóstico médico** e não devem ser usadas para decisões clínicas reais.
 
